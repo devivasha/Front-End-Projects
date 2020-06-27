@@ -1,0 +1,98 @@
+.title {
+    font-size: 28px;
+    font-weight: bold;
+    color: #212052;
+    margin-bottom: 1px;
+}
+
+.subtitle {
+    font-weight: 500;
+    font-size: 17px;
+    color: #474747;
+    margin-top: 1px;
+}
+
+.batch-header {
+    width: 100vw;
+    height: 80px;
+    background-color: #E1E1E1;
+}
+
+.batch-add-menu {
+    height: 65px;
+    width: 300px;
+    position: absolute;
+    z-index: 100;
+    top: 0;
+    left: 0;
+
+    @media(min-width:320px) {
+        width: 167px;
+    }
+
+    @media(min-width:370px) {
+        width: 167px;
+    }
+
+    @media(min-width:481px) {
+        width: 200px;
+    }
+
+    @media(min-width:600px) {
+        width: 300px;
+    }
+
+    @media(min-width:960px) {
+        width: 300px;
+    }
+
+}
+
+.drop-zone {
+    width: 80vw;
+    height: 90vh;
+    background-color: white;
+
+}
+
+.service-zone {
+    width: 20vh;
+    background-color: #EEEEEE;
+}
+
+.service {
+    padding-top: 25px;
+}
+
+.img-logo {
+    display: none;
+    margin-top: 30px;
+    margin-left: 40px;
+
+    @media(min-width: 600px) {
+        display: block;
+    }
+}
+
+.arrows {
+    color: #8D8D8D;
+    margin-top: 25px;
+    margin-left: 15px;
+    cursor: pointer;
+}
+
+.arrows:hover {
+    color: white;
+    background-color: #3D3A3A;
+    margin-top: 25px;
+    margin-right: 10px;
+    cursor: pointer;
+}
+
+.projects-style {
+    height: 100vh;
+}
+
+.overflow-hidden {
+    overflow: hidden !important;
+}

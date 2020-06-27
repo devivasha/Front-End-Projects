@@ -1,0 +1,86 @@
+.mob-text{
+  display: none;
+  @media(min-width:600px){
+    display: block;
+  }
+}
+
+.position-mob {
+  display: block;
+  margin: auto;
+  @media(min-width:600px){
+    display: flex;
+  }
+}
+.position-mob2 {
+  display: flex;
+  margin: auto;
+  @media(min-width:600px){
+    display: block;
+  }
+}
+
+.typography-mob {
+  font-size: 11px;
+  line-height: 20px;
+  vertical-align: center;
+  @media(min-width:600px){
+    font-size: 13px;
+    line-height: 48px;
+
+  }
+}
+
+.menu-move-mb {
+  position: absolute;
+  top: -15px;
+  left: 0px;
+  z-index: 88;
+  @media(min-width:600px){
+    position: relative;
+  }
+}
+.add-menu-display {
+  display: none;
+  @media(min-width:600px){
+    display: block;
+  }
+}
+
+.hide-shift {
+  display: none;
+  @media(min-width:600px){
+    display: block;
+  }
+}
+
+.icon-move {
+  width: 18px;
+  height: 18px;
+  text-align: center;
+  position: absolute;
+  top: 35px;
+  left:195px;
+
+}
+.icon-move:hover {
+  background-color: #DBDBDB;
+}
+.move-px {
+  position: absolute;
+  top: 20px;
+  left:220px;
+}
+.move-px2 {
+  position: absolute;
+  top: 20px;
+  left:200px;
+}
+.icon-icon {
+  margin-left: 10px;
+  margin-bottom: 3px;
+  @media(min-width:600px){
+    margin-left: 0px;
+    margin-bottom: 0px;
+  }
+}

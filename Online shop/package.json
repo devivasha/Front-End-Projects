@@ -1,0 +1,32 @@
+{
+  "name": "online-shop-step-project-3",
+  "version": "1.0.0",
+  "description": "Задание часть 1 (верстка):\r Сверстайте макет Online one page shop (каждый свою часть), в 3х разрешениях (1200px и больше, 768px, 480px) максимально использовав Bootstrap 4 везде, где это возможно (в том числе для создания интерактивных элементов).\r Промежуточные версии (между 1200px и 768px; между 768px и 480px; между 480px и 320px) нужно делать исходя из здравого смысла (не влезает - менять расположение элементов согласно меньшему разрешению).\r Step Project делается в группах по 2 человека. Каждому студенту нужно сверстать по 6 секций и все интерактивные элементы, которые указаны в его части ТЗ.",
+  "main": "gulpfile.js",
+  "dependencies": {
+    "@fortawesome/fontawesome-free": "^5.11.2",
+    "bootstrap": "^4.3.1",
+    "jquery": "^3.4.1"
+  },
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "gulp-concat": "^2.6.1",
+    "gulp-html-partial": "^1.0.1",
+    "gulp-sass": "^4.0.2",
+    "gulp-uglify-es": "^2.0.0",
+    "node-sass": "^4.13.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://gitlab.com/devivasha/online-shop-step-project-3.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://gitlab.com/devivasha/online-shop-step-project-3/issues"
+  },
+  "homepage": "https://gitlab.com/devivasha/online-shop-step-project-3#readme"
+}

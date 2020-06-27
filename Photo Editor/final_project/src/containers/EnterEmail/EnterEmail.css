@@ -1,0 +1,60 @@
+.customTextField fieldset {
+  border-radius: 2px;
+}
+
+.title1 {
+  font-size: 24px;
+  font-weight: bold;
+  color: #212052;
+  margin-bottom: 1px;
+}
+
+.subtitle {
+  font-weight: 500;
+  font-size: 17px;
+  color: #474747;
+  margin-top: 1px;
+}
+
+.image1 {
+  position: absolute;
+  left: 142px;
+  top: 242px;
+  width: 29px;
+  height: 47px;
+  background-image: url("/images/stars1.svg");
+  background-repeat: no-repeat;
+}
+
+.image2 {
+  position: absolute;
+  width: 47px;
+  height: 30px;
+  left: 1193px;
+  top: 383px;
+  background-image: url("/images/stars2.svg");
+  background-repeat: no-repeat;
+}
+
+.submitButton {
+  margin-bottom: 100px;
+}
+
+.thankPage {
+  height: 400px;
+}
+
+.thankText {
+  margin-top: 300px;
+  position: relative;
+  font-weight: 500;
+  font-size: 17px;
+  color: #474747;
+  text-align: center;
+}
+.thankText::before {
+  width: 36px;
+  height: 26px;
+  margin-right: 14px;
+  content: url("/images/small-tick.svg");
+}

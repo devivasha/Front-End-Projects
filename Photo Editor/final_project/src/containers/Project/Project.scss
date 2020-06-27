@@ -1,0 +1,64 @@
+.title {
+    font-size: 28px;
+    font-weight: bold;
+    color: #212052;
+    margin-bottom: 1px;
+}
+
+.subtitle {
+    font-weight: 500;
+    font-size: 17px;
+    color: #474747;
+    margin-top: 1px;
+}
+.batch-header {
+    width: 100vw;
+    height: 80px;
+}
+.batch-add-menu {
+    height: 80px;
+    width: 308px;
+    position: absolute;
+    z-index: 100;
+    top: 0;
+    left: 0;
+    @media(min-width:370px){
+        width: 350px;
+    }
+    @media(min-width:481px){
+        width: 400px;
+    }
+    @media(min-width:600px){
+        width: 450px;
+    }
+    @media(min-width:960px){
+        width: 550px;
+    }
+}
+.drop-zone {
+    width: 100vw;
+    height: 100vh;
+    background-color: white;
+
+}
+.img-logo {
+    display: none;
+    margin-top: 25px;
+    margin-left: 40px;
+    @media(min-width: 960px){
+        display: block;
+    }
+}
+.arrows {
+     color: #8D8D8D;
+     margin-top: 25px;
+     margin-left: 15px;
+     cursor: pointer;
+ }
+.arrows:hover {
+    color: white;
+    background-color: #3D3A3A;
+    margin-top: 30px;
+    margin-right: 10px;
+    cursor: pointer;
+}

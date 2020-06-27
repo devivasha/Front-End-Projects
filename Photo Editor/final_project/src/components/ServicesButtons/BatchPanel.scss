@@ -1,0 +1,133 @@
+
+.titles {
+    margin-left: 40px;
+    font-family: Montserrat, sans-serif;
+    font-size: 13px;
+    text-align: left;
+    color: #000000;
+    @media(min-width:600px){
+        margin-left: 5px;
+    }
+
+}
+.titles-watermark {
+    margin-left: 15px;
+    font-family: Montserrat, sans-serif;
+    font-size: 13px;
+    text-align: left;
+    color: #6F6E6E;
+    @media(min-width:600px){
+        margin-left: 40px;
+    }
+
+}
+
+.titles-or {
+    font-family: Montserrat, sans-serif;
+    font-size: 13px;
+    position: absolute;
+    top: 21px;
+    left: 15px;
+    color: #6F6E6E;
+    @media(min-width:600px){
+        position: absolute;
+        top: 23px;
+        left: 7px;
+        color: #000000;
+    }
+
+}
+.selector-move {
+    margin-left: 40px;
+    margin-bottom: 15px;
+    @media(min-width:600px){
+        margin-left: 15px;
+        margin-bottom: 0px;
+    }
+}
+.titles-inch {
+    margin-left: 5px;
+    font-family: Montserrat, sans-serif;
+    font-size: 13px;
+    color: #6F6E6E;
+    display: none;
+    @media(min-width:600px){
+        display: block;
+    }
+
+}
+.titles-move-select {
+    margin-left: 15px;
+    font-family: Montserrat, sans-serif;
+    font-size: 13px;
+    color: #6F6E6E;
+    display: block;
+}
+
+.titles-move {
+    margin-left: 15px;
+    font-family: Montserrat, sans-serif;
+    font-size: 11px;
+    color: #818181;
+}
+
+.inputs {
+    width:  76px;
+    height: 22px;
+    font-size: 13px;
+    padding-left: 6px;
+    margin-top: 8px;
+    color: #000000;
+    font-family: Montserrat, sans-serif;
+}
+.inputs-long {
+    width:  158px;
+    height: 29px;
+    font-size: 13px;
+    padding-left: 6px;
+    margin-top: 8px;
+    color: #000000;
+    font-family: Montserrat, sans-serif;
+}
+.inputs-opacity {
+    width:  54px;
+    height: 22px;
+    font-size: 13px;
+    padding-left: 10px;
+    margin-top: 8px;
+    color: #000000;
+    font-family: Montserrat, sans-serif;
+}
+.arrow-wrapper {
+    width: 32px;
+    height: 32px;
+    margin-left: 12px;
+    border: 1px solid #8D8D8D;
+    text-align: center;
+}
+.arrow-wrapper:hover {
+    background-color: #E5E5E5;
+    cursor: pointer;
+}
+.upload {
+    width: 77px;
+    height: 29px;
+    border-radius: 1px;
+    font-family: Montserrat, sans-serif;
+    border:1px solid #8D8D8D;
+    font-weight: 400;
+    font-size: 13px;
+    color: #3D3A3A;
+}
+.upload:hover {
+    background-color: #E5E5E5;
+}
+
+.chrome-picker {
+    margin-left: -207px;
+    margin-top: 35px;
+    @media(min-width:600px){
+        margin-left: -60px;
+        margin-top: 0;
+    }
+}

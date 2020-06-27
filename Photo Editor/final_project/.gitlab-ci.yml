@@ -1,0 +1,30 @@
+image: node:latest
+
+stages:
+  - build
+  - deploy
+
+build:
+  type: build
+  stage: build
+  image: node:latest
+  script: 
+    - npm install -g
+    - npm rebuild node-sass
+    - CI=false npm run-script build
+  artifacts:
+    expire_in: 1 hour
+    paths:
+      - build
+  only:
+    - master
+
+deploy:
+  type: deploy
+  stage: deploy
+  image: node:latest
+  script: 
+    - npm install -g firebase-tools
+    - firebase deploy --only hosting:cropman --token "$FIREBASE_TOKEN"
+  only:
+    - master

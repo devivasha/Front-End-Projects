@@ -1,0 +1,15 @@
+.myContainer {
+    height: 700px;
+}
+.title {
+    color: #212052;
+    font-size: 37px;
+    padding: 0 30px;
+    font-weight: bold;
+}
+.text {
+    color: #474747;
+    padding: 0 30px;
+    font-size: 17px;
+    text-align: justify;
+}
