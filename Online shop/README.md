@@ -1,6 +1,7 @@
-
+<pre>
  <pre> Skills:</pre>
- <pre>ONLINE SHOP : https://devivasha.github.io/online_shop/build/</pre>
+ <pre>ONLINE SHOP :</pre> https://devivasha.github.io/online_shop/build/
+ </pre>
 
  
 Задание часть:
