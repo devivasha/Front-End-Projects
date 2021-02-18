@@ -6,6 +6,7 @@
   <pre>Presentation:</pre> https://drive.google.com/file/d/1bQwk1Tqdn_HmjUcLv3t6GXB-559FP5qe/view?usp=sharing
  </pre>
  <pre>
+ <pre>Technologies used:</pre> JavaScript, REST API JSON, HTML5, CSS3
  <pre> 2) WHITEBOARD :</pre> https://devivasha.github.io/whiteboard/
  <pre> 3) ONLINE SHOP :</pre> https://devivasha.github.io/online_shop/build/
  <pre> 4) LANDING PAGE :</pre> https://devivasha.github.io/landing_page/
