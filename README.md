@@ -1,4 +1,4 @@
-Links to all Front-end projects:
+<pre>Links to all Front-end projects:</pre>
 1)BATCH IMAGE EDITOR(graduation project(commersial))- https://cropman.io/
 2)WHITEBOARD - https://devivasha.github.io/whiteboard/
 3)ONLINE SHOP - https://devivasha.github.io/online_shop/build/
