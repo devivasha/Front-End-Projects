@@ -1,6 +1,6 @@
 <pre>
  <pre>Technologies used:</pre> JavaScript, REST API JSON, HTML5, CSS3
- <pre>WHITEBOARD :</pre>  
+ <pre>WHITEBOARD :</pre> https://devivasha.github.io/whiteboard/
 </pre> 
 Задание
 Создать страницу, на которой пользователь сможет создавать карточки запланированных визитов к врачу.
