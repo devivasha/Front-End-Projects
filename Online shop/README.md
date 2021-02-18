@@ -1,5 +1,5 @@
 <pre>
- <pre> Skills:</pre>
+ <pre>Technologies used:</pre> HTML5, SCSS, JavaScript, Bootstrap 4, Gulp
  <pre>ONLINE SHOP :</pre> https://devivasha.github.io/online_shop/build/
  </pre>
 
