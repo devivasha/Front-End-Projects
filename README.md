@@ -1,6 +1,6 @@
 <pre>Links to all Front-end projects:</pre>
 <pre>
- 1) Final graduation project- commersial:
+ 1) Final graduation project- commersial - Technologies used: React/Redux, Material Ui, MongoDB, Fierbase, Node.js,
   <pre>site:</pre> https://cropman.io/
   <pre>GitHub:</pre> https://github.com/devivasha/Projects/tree/master/Photo%20Editor/final_project
   <pre>Presentation:</pre> https://drive.google.com/file/d/1bQwk1Tqdn_HmjUcLv3t6GXB-559FP5qe/view?usp=sharing
