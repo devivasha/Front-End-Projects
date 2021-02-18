@@ -3,7 +3,7 @@
  Final graduation project- commersial:
  <pre>site:</pre> https://cropman.io/
  </pre>
- GitHub: 
+ GitHub: https://github.com/devivasha/Projects/tree/master/Photo%20Editor/final_project
 </pre>
 1)BATCH IMAGE EDITOR(graduation project(commersial))- https://cropman.io/
 2)WHITEBOARD - https://devivasha.github.io/whiteboard/
