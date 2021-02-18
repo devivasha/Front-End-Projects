@@ -1,6 +1,6 @@
 <pre>
-<pre></pre>
-<pre></pre>
+ <pre>Technologies used:</pre> HTML5, SCSS, JavaScript
+ <pre>ONLINE SHOP :</pre> 
 </pre>
 Задание
 Сверстать макет psd. Подключить динамические элементы (см. ниже)
