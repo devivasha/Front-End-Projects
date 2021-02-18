@@ -1,6 +1,6 @@
 <pre>
  <pre>Technologies used:</pre> HTML5, SCSS, JavaScript
- <pre>ONLINE SHOP :</pre> 
+ <pre>LANDING PAGE :</pre>  https://devivasha.github.io/landing_page/
 </pre>
 Задание
 Сверстать макет psd. Подключить динамические элементы (см. ниже)
