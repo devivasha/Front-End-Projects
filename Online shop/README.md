@@ -1,4 +1,8 @@
-
+ <pre>
+ <pre> Skills:</pre>
+ <pre> 3) ONLINE SHOP :</pre> https://devivasha.github.io/online_shop/build/
+ </pre
+ 
 Задание часть:
 Сверстайте макет Online one page shop (каждый свою часть), в 3х разрешениях (1200px и больше, 768px, 480px) максимально использовав Bootstrap 4 везде, где это возможно (в том числе для создания интерактивных элементов).
 
