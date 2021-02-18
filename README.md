@@ -10,8 +10,7 @@
  </pre> https://devivasha.github.io/whiteboard/
  <pre>
  <pre> 3) ONLINE SHOP: Technologies used: HTML5, SCSS, JavaScript, Bootstrap 4, Gulp
- https://devivasha.github.io/online_shop/build/
- </pre>
+  </pre>https://devivasha.github.io/online_shop/build/
  <pre> 4) LANDING PAGE :</pre> https://devivasha.github.io/landing_page/
  </pre>
 </pre>
