@@ -1,8 +1,7 @@
 <pre>Links to all Front-end projects:</pre>
 <pre>
  Final graduation project- commersial:
- <pre>
- site: https://cropman.io/
+ <pre>site:</pre> https://cropman.io/
  </pre>
  GitHub: 
 </pre>
